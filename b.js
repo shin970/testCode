@@ -1,5 +1,8 @@
-//添加一段文字
-//
-//添加第二段文字
-//
-//添加第
+var a=0;
+var b=1;
+
+function fn(){
+  console.log(2)
+}
+
+console.log(c);
