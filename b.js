@@ -7,5 +7,9 @@ function fn(){
 	console.log(x);
 }
 
+function test(){
+	console.log('this is test');
+}
+
 var c=a+b;
 console.log(c);
