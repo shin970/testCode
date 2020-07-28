@@ -7,9 +7,16 @@ function fn(){
 	console.log(x);
 }
 
+
 function test(){
 	console.log('this is test');
 }
+
+function dev(){
+	var t='this is dev branch';
+	console.log(t);
+}
+
 
 var c=a+b;
 console.log(c);
