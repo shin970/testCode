@@ -7,5 +7,11 @@ function fn(){
 	console.log(x);
 }
 
+function dev(){
+	var t='this is dev branch';
+	console.log(t);
+}
+
+
 var c=a+b;
 console.log(c);
