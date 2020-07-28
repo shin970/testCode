@@ -6,4 +6,6 @@ function fn(){
 	var x='burst the gravity';
 	console.log(x);
 }
+
+var c=a+b;
 console.log(c);
