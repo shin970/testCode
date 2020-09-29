@@ -70,4 +70,5 @@ function creatIEAlert() {
     sbIeBody.appendChild(sbIeBtmTxt);
     body.appendChild(sbIeBody);
     document.body.appendChild(ieAlertTable);
+    //tianjiayiju ceshi
 }
